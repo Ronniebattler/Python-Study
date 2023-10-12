@@ -1,2 +1,2 @@
 # Python-Study
-Learn how to use Python easily
+Learn how to use Python easily!
